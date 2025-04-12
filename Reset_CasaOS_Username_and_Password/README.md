@@ -5,7 +5,5 @@ The script is designed to reset the CasaOS web interface password by modifying t
 - Direct Download & Run (Quickest)
 
 ```sh
-wget
-chmod +x run.sh
-sudo ./run.sh
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/ELMEHDI2025/mscripts/main/Reset_CasaOS_Username_and_Password/run.sh)"
 ```

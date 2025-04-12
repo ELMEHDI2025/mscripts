@@ -34,13 +34,13 @@ if [[ $EUID -ne 0 ]]; then
 fi
 
 # Display Welcome
-print_header "BigBearCasaOS Password Reset V2.0"
+print_header "CasaOS Password Reset V2.0"
 echo "Here are some links:"
-echo "https://community.bigbeartechworld.com"
-echo "https://github.com/BigBearTechWorld"
+echo "https://elmehdi.dev"
+echo "https://github.com/ELMEHDI2025"
 echo ""
 echo "If you would like to support me, please consider buying me a tea:"
-echo "https://ko-fi.com/bigbeartechworld"
+echo "https://ko-fi.com/kmehdi"
 echo ""
 
 # Check if the casaos service is active
